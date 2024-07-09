@@ -1,7 +1,3 @@
-Sure, here's a simple README template for your GitHub repository:
-
----
-
 # House Price Prediction
 
 This repository contains files and scripts for predicting house prices using a machine learning model.
