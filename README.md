@@ -43,15 +43,6 @@ The results of the house price predictions can be found in the `predicted_sale_p
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- Kaggle for the dataset
-- OpenAI for assistance with the project
-
----
-
-You can customize this template further based on your specific needs and additional information you might want to include.
